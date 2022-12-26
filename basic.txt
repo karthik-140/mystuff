@@ -6,3 +6,5 @@ c++
 java
 javascript
 
+HTML
+CSS
